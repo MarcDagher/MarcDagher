@@ -1,7 +1,7 @@
 #         🚧🔧Developer Under Construction 🔨🚧
  📐✏️ Eager to learn   -  Excited to jump into the 🔥🔥🔥
+<img src="https://giphy.com/embed/xZsLh7B3KMMyUptD9D" width="480" height="270" frameBorder="0" class="giphy-embed" />
 
-<iframe src="https://giphy.com/embed/xZsLh7B3KMMyUptD9D" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/tlceurope-xZsLh7B3KMMyUptD9D">via GIPHY</a></p>
 ## Skills: 
 
 📌 Python
