@@ -4,7 +4,7 @@
 
 
 
-<img src="https://github.com/MarcDagher/MarcDagher/blob/main/giphy.gif" width="400" height="400"/>
+<img src="https://github.com/MarcDagher/MarcDagher/blob/main/giphy.gif" width="700" height="500"/>
 
 
  
