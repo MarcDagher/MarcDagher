@@ -1,7 +1,8 @@
 #         🚧🔧Developer Under Construction 🔨🚧
  📐✏️ Eager to learn   -  Excited to jump into the 🔥🔥🔥
- ![Funny GIF]([https://link-to-your-gif.gif](https://giphy.com/embed/xZsLh7B3KMMyUptD9D))
+
 <img src="https://giphy.com/embed/xZsLh7B3KMMyUptD9D" width="480" height="270" frameBorder="0" class="giphy-embed" margin="0 auto" />
+![gif](https://giphy.com/embed/xZsLh7B3KMMyUptD9D)
 
 ## Skills: 
 
