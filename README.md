@@ -3,18 +3,20 @@
 📐✏️ Eager to learn  
 Excited to jump into the 🔥🔥🔥
 
-#Skills: 
+##Skills: 
 📌 HTML 
 📌 CSS
 🚧 JavaScript 🚧
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcDagher&?theme=panda_icons=true)
   
-#Talk To Me About
+##Talk To Me About
 💡 Technology
 👽 Conspiracies
 🧠 Psychology
 
-#Apart from talking to machines, I like to:
+##Apart from talking to machines, I like to:
 📜 Read books
 🏃 Practice sports
 🔬 Explore philosophical topics
