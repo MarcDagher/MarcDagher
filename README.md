@@ -22,8 +22,8 @@
 🚧 JavaScript 🚧
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcDagher" height="245"/>
-<img src="https://github-readme-stats.vercel.app/api?username=MarcDagher&?theme=panda_icons=true" height="245"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcDagher" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MarcDagher&?theme=panda_icons=true" height="200"/> 
 
   
 ## Talk To Me About
