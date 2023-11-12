@@ -22,8 +22,8 @@
 🚧 JavaScript 🚧
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcDagher" height="200" display="inline"/>
-<img src="https://github-readme-stats.vercel.app/api?username=MarcDagher&?theme=panda_icons=true" height="200" width="300" display="inline"/> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcDagher)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcDagher&?theme=panda_icons=true)  
 
   
 ## Talk To Me About
