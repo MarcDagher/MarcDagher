@@ -1,7 +1,6 @@
-# 🚧🔧Developer Under Construction 🔨🚧
+#         🚧🔧Developer Under Construction 🔨🚧
  
-📐✏️ Eager to learn  
-Excited to jump into the 🔥🔥🔥
+#####      📐✏️ Eager to learn   -  Excited to jump into the 🔥🔥🔥
 
 ## Skills: 
 
