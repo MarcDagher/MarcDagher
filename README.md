@@ -1,6 +1,10 @@
-#         🚧🔧Developer Under Construction 🔨🚧
+#         🚧🔧Software Developer Under Construction 🔨🚧
+ 
+ 
  📐✏️ Eager to learn   -  Excited to jump into the 🔥🔥🔥
-<img src="https://giphy.com/embed/xZsLh7B3KMMyUptD9D" width="480" height="270" frameBorder="0" class="giphy-embed" />
+
+ 
+<img src="https://giphy.com/embed/xZsLh7B3KMMyUptD9D" width="480" height="270"/>
 
 ## Skills: 
 
