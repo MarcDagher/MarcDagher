@@ -13,12 +13,6 @@
 
 📌 Python
 
-📌 HTML 
-
-
-📌 CSS
-
-
 📌 JavaScript
 
 📌 PHP
