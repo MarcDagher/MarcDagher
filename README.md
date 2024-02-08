@@ -1,4 +1,4 @@
-## 🚧🔧Full Stack Web Developer with a Passion for Data 🔨🚧
+## 🚧🔧 Full Stack Web Developer 🔨🚧
 
 
 
