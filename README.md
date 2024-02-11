@@ -4,9 +4,9 @@
 <div display="flex">
   <div>
     
-      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcDagher)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcDagher)](https://github.com/anuraghazra/github-readme-stats)
       
-      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcDagher&?theme=panda_icons=true)  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcDagher&?theme=panda_icons=true)  
   
   </div>
   <img src="https://github.com/MarcDagher/MarcDagher/blob/main/giphy.gif" width="100%"/> 
