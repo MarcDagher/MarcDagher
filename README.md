@@ -1,6 +1,6 @@
 
-<h3 align="center"> 
- Full-Stack Web Developer With A Love For 🚧🔧 Building 🔨🚧 <br></br> A Passion for 📈🔎 Data 💡📊 <br></br> </h3>
+<h2 align="center"> 
+ Full-Stack Web Developer With A Love For 🚧🔧 Building 🔨🚧 <br></br> A Passion for 📈🔎 Data 💡📊 <br></br> </h2>
 
 <h3 style="display: flex;" align="center">
     <img src="https://github.com/MarcDagher/MarcDagher/blob/main/giphy.gif" style="height:300px;"/>
