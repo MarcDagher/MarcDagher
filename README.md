@@ -49,3 +49,8 @@
 
 
 🚨 Continue talking to a machine
+
+
+[![committers.top badge](https://user-badge.committers.top/lebanon/USERNAME.svg)](https://user-badge.committers.top/lebanon/MarcDagher)
+
+[![committers.top badge](https://org-badge.committers.top/lebanon/ORGNAME.svg)](https://org-badge.committers.top/lebanon/MarcDagher)
