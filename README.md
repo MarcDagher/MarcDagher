@@ -1,5 +1,5 @@
 
-<h1 align="center"> Full-Stack Developer With A Love For <br></br> 🚧🔧 Building 🔨🚧 <br></br> and a Passion for <br></br> 📈🔎Analyizing Data⛓💡📊 </h1>
+<h1 align="center" font-size="20"> Full-Stack Developer With A Love For <br></br> 🚧🔧 Building 🔨🚧 <br></br> and a Passion for <br></br> 📈🔎 Analyizing Data ⛓💡📊 </h1>
 <br></br>
 <img align="right" src="https://github.com/MarcDagher/MarcDagher/blob/main/giphy.gif" style="max-width: 400px; height: auto;"/>
 
