@@ -1,7 +1,5 @@
-
-
-
-<h1 align="center"> 🚧🔧 Full Stack Web Developer With A Love For Building 🔨🚧 </h1>
+<br></br>
+<h1 align="center"> A Developer With A Love For 🚧🔧 Building 🔨🚧 and a Passion for Analyizing </h1>
 <br></br>
 <img align="right" src="https://github.com/MarcDagher/MarcDagher/blob/main/giphy.gif" style="max-width: 400px; height: auto;"/>
 
