@@ -1,5 +1,5 @@
 
-<p align="center" style="font-size:25px"> 
+<p align="center" style="font-size:30px"> 
  Full-Stack Web Developer With A Love For 🚧🔧 Building 🔨🚧 <br></br> A Passion for 📈🔎 Data 💡📊 <br></br> </p>
 <br></br>
 <img align="right" src="https://github.com/MarcDagher/MarcDagher/blob/main/giphy.gif" style="max-width: 400px; height: auto;"/>
