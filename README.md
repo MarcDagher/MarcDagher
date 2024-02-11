@@ -4,9 +4,9 @@
 <br></br>
 
 <div display="flex">
-<img  src="https://github.com/MarcDagher/MarcDagher/blob/main/giphy.gif" style="max-width: 400px;"/>
+<img  src="https://github.com/MarcDagher/MarcDagher/blob/main/giphy.gif" style="width: 100%;"/>
 
-<img  src="https://github.com/MarcDagher/MarcDagher/assets/120271000/e1cf2ba5-596c-4cb4-90a7-f783eb668899" style="max-width: 400px; max-height: 200px;"/> 
+<img  src="https://github.com/MarcDagher/MarcDagher/assets/120271000/e1cf2ba5-596c-4cb4-90a7-f783eb668899" style="width: 100%; height: 200px;"/> 
 </div>
 
 
