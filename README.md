@@ -1,17 +1,14 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+Universe;Welcome+To+My+Repo+🚀)](https://git.io/typing-svg)
+<h1 align="center"> 🚧🔧 Full Stack Web Developer With A Love For Building 🔨🚧 </h1>
 
-## 🚧🔧 Full Stack Web Developer 🔨🚧
 <div style="display: flex; flex-direction: row;">
-  <div>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcDagher)](https://github.com/anuraghazra/github-readme-stats)
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcDagher&theme=panda_icons=true)  
-  
-  </div>
-  
-  <img align="right" src="https://github.com/MarcDagher/MarcDagher/blob/main/giphy.gif" style="max-width: 400px; height: auto;"/>
+
 </div>
+  
+<img align="right" src="https://github.com/MarcDagher/MarcDagher/blob/main/giphy.gif" style="max-width: 400px; height: auto;"/>
 
 <h4 align="left"> Languages </h4> 
 
