@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MarcDagher.MarcDagher&left_color=red&right_color=green" /> 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+Universe;Welcome+To+My+Repo+🚀)](https://git.io/typing-svg)
 ## 🚧🔧 Full Stack Web Developer 🔨🚧
 
 
