@@ -10,7 +10,7 @@
   
   </div>
   
-  <img src="https://github.com/MarcDagher/MarcDagher/blob/main/giphy.gif" width="100%"/> 
+  <img src="https://github.com/MarcDagher/MarcDagher/blob/main/giphy.gif"/> 
 
 </div>
 
