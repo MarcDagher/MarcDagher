@@ -1,10 +1,8 @@
 <h1 align="center"> 🚧🔧 Full Stack Web Developer With A Love For Building 🔨🚧 </h1>
 
-<div style="display: flex; flex-direction: row;">
+<div align="left">
   
-  <img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcDagher)](https://github.com/anuraghazra/github-readme-stats)" />
-  <img src="https://github.com/anuraghazra/github-readme-stats" />
-  <img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcDagher)]" />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcDagher)](https://github.com/anuraghazra/github-readme-stats)" 
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcDagher&theme=panda_icons=true)  
 
