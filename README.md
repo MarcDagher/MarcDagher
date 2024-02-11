@@ -5,7 +5,7 @@
 
 <h1 style="display: flex;">
     <img src="https://github.com/MarcDagher/MarcDagher/blob/main/giphy.gif"  style="width:300px; height:200px;"/>
-    <img src="https://github.com/MarcDagher/MarcDagher/assets/120271000/e1cf2ba5-596c-4cb4-90a7-f783eb668899" style="width:50%; height:300px;"/>
+    <img src="https://github.com/MarcDagher/MarcDagher/assets/120271000/e1cf2ba5-596c-4cb4-90a7-f783eb668899" style="width:50%; height:300px; float:right"/>
 </h1>
 
 
