@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+Universe;Welcome+To+My+Repo+🚀)](https://git.io/typing-svg)
 
 ## 🚧🔧 Full Stack Web Developer 🔨🚧
-<div display="flex">
+<div display="flex" flex-direction="row">
   <div>
     
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcDagher)](https://github.com/anuraghazra/github-readme-stats)
@@ -9,7 +9,9 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcDagher&?theme=panda_icons=true)  
   
   </div>
+  
   <img src="https://github.com/MarcDagher/MarcDagher/blob/main/giphy.gif" width="100%"/> 
+
 </div>
 
 <h4 align="left"> Languages </h4> 
