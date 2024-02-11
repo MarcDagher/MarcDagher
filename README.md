@@ -1,4 +1,4 @@
-<img  align="right" src="http://visitor-badge.laobi.icu/badge?page_id=MarcDagher.MarcDagher"/>
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=MarcDagher.MarcDagher&left_color=red&right_color=green) 
 
 ## 🚧🔧 Full Stack Web Developer 🔨🚧
 
