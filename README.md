@@ -10,7 +10,15 @@
 <img src="https://github.com/MarcDagher/MarcDagher/blob/main/giphy.gif" width="700" height="400"/>
 
 
- 
+<h2 align="center"> Languages </h2> 
+
+<h2 align="center"> Frameworks / Libraries </h2>
+
+<h2 align="center"> Databases </h2>
+
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 
 ## Skills: 
 
