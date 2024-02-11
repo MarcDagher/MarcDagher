@@ -1,11 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+Universe;Welcome+To+My+Repo+🚀)](https://git.io/typing-svg)
 
 ## 🚧🔧 Full Stack Web Developer 🔨🚧
-
-
-
-<img src="https://github.com/MarcDagher/MarcDagher/blob/main/giphy.gif" width="700" height="400"/>
-
+<div display="flex">
+  <div>
+      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcDagher)](https://github.com/anuraghazra/github-readme-stats)
+      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcDagher&?theme=panda_icons=true)  
+  </div>
+  <img src="https://github.com/MarcDagher/MarcDagher/blob/main/giphy.gif" width="100%"/> 
+</div>
 
 <h4 align="left"> Languages </h4> 
 
@@ -23,9 +25,6 @@
 <h4 align="left"> Other Tools </h4>
 
 <img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" /> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" /> <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcDagher)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcDagher&?theme=panda_icons=true)  
 
   
 ## Talk To Me About
