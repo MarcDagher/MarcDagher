@@ -3,11 +3,11 @@
  Full-Stack Web Developer With A Love For 🚧🔧 Building 🔨🚧 <br></br> A Passion for 📈🔎 Data 💡📊 <br></br> </h3>
 <br></br>
 
-<div display="flex">
-<img  src="https://github.com/MarcDagher/MarcDagher/blob/main/giphy.gif"/>
-
-<img  src="https://github.com/MarcDagher/MarcDagher/assets/120271000/e1cf2ba5-596c-4cb4-90a7-f783eb668899" style="height: 200px;"/> 
+<div style="display: flex;">
+    <img src="https://github.com/MarcDagher/MarcDagher/blob/main/giphy.gif" style="height: 200px;" />
+    <img src="https://github.com/MarcDagher/MarcDagher/assets/120271000/e1cf2ba5-596c-4cb4-90a7-f783eb668899" style="height: 200px;" />
 </div>
+
 
 
 <h3 align="left"> Languages </h3> 
