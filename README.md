@@ -10,7 +10,7 @@
   
   </div>
   
-  <img src="https://github.com/MarcDagher/MarcDagher/blob/main/giphy.gif" style="max-width: 400px; height: auto;"/>
+  <img align="right" src="https://github.com/MarcDagher/MarcDagher/blob/main/giphy.gif" style="max-width: 400px; height: auto;"/>
 </div>
 
 <h4 align="left"> Languages </h4> 
