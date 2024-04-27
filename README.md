@@ -1,7 +1,3 @@
-
-<h2 align="center"> 
- Full-Stack Web Developer <br></br> 🚧🔧 With A Love For Building 🔨🚧 <br></br> 📈🔎 And A Passion for Machine Learning 💡📊 <br></br> </h2>
-
 <h3 style="display: flex;" align="center">
     <img src="https://github.com/MarcDagher/MarcDagher/blob/main/giphy.gif" style="height:300px;"/>
     <img src="https://github.com/MarcDagher/MarcDagher/assets/120271000/e1cf2ba5-596c-4cb4-90a7-f783eb668899" style="height:270px; float:right; "/>
